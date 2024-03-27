@@ -1,0 +1,22 @@
+Added Component: Designator=U20(MODBME280_m)
+Added Component: Designator=U21(BOSCH_LGA-12)
+Added Pin To Net: NetName=GND Pin=U20-1
+Added Pin To Net: NetName=SPI1_NSS_1 Pin=U20-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=U20-3
+Added Pin To Net: NetName=SPI1_SCK Pin=U20-4
+Added Pin To Net: NetName=SPI1_MISO Pin=U20-5
+Added Pin To Net: NetName=Vcc Pin=U20-6
+Added Pin To Net: NetName=GND Pin=U20-7
+Added Pin To Net: NetName=NetC20_2 Pin=U20-8
+Added Pin To Net: NetName=SPI1_MISO Pin=U21-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=U21-2
+Added Pin To Net: NetName=Vcc Pin=U21-3
+Added Pin To Net: NetName=NetMCU1_14 Pin=U21-5
+Added Pin To Net: NetName=NetMCU1_18 Pin=U21-6
+Added Pin To Net: NetName=NetC23_1 Pin=U21-7
+Added Pin To Net: NetName=GND Pin=U21-8
+Added Pin To Net: NetName=GND Pin=U21-9
+Added Pin To Net: NetName=SPI1_NSS_2 Pin=U21-10
+Added Pin To Net: NetName=SPI1_SCK Pin=U21-12
+Added Member To Class: ClassName=U_DigitalSensors Member=Component U20 BME280
+Added Member To Class: ClassName=U_DigitalSensors Member=Component U21 BMA456

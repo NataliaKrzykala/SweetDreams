@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=MOD31 Old Footprint=45300059C New Footprint=45300059C_m
+Change Component Footprint: Designator=U20 Old Footprint=MODBME280 New Footprint=MODBME280_m
+Change Component Footprint: Designator=U01 Old Footprint=SON65P200X200X80-7N New Footprint=SON65P200X200X80-7N_m
+Change Component Footprint: Designator=U11 Old Footprint=SON65P200X200X80-7N New Footprint=SON65P200X200X80-7N_m
+Change Component Footprint: Designator=IC12 Old Footprint=SOT65P210X110-6N New Footprint=SOT65P210X110-6N_m
+Added Component: Designator=MCU1(QFP80P900X900X160-32N_m)
+Added Pin To Net: NetName=Vcc Pin=MCU1-1
+Added Pin To Net: NetName=RESET Pin=MCU1-4
+Added Pin To Net: NetName=Vcc Pin=MCU1-5
+Added Pin To Net: NetName=SPI1_NSS_2 Pin=MCU1-6
+Added Pin To Net: NetName=NetMCU1_7 Pin=MCU1-7
+Added Pin To Net: NetName=LPUART1_TX Pin=MCU1-8
+Added Pin To Net: NetName=LPUART1_RX Pin=MCU1-9
+Added Pin To Net: NetName=SPI1_NSS_1 Pin=MCU1-10
+Added Pin To Net: NetName=SPI1_MOSI Pin=MCU1-11
+Added Pin To Net: NetName=SPI1_MISO Pin=MCU1-12
+Added Pin To Net: NetName=SPI1_SCK Pin=MCU1-13
+Added Pin To Net: NetName=NetMCU1_14 Pin=MCU1-14
+Added Pin To Net: NetName=NetIC12_4 Pin=MCU1-15
+Added Pin To Net: NetName=GND Pin=MCU1-16
+Added Pin To Net: NetName=Vcc Pin=MCU1-17
+Added Pin To Net: NetName=NetMCU1_18 Pin=MCU1-18
+Added Pin To Net: NetName=NetMCU1_19 Pin=MCU1-19
+Added Pin To Net: NetName=NetMCU1_20 Pin=MCU1-20
+Added Pin To Net: NetName=NetMCU1_21 Pin=MCU1-21
+Added Pin To Net: NetName=NetMCU1_22 Pin=MCU1-22
+Added Pin To Net: NetName=NetJ01_2 Pin=MCU1-23
+Added Pin To Net: NetName=NetJ01_4 Pin=MCU1-24
+Added Pin To Net: NetName=NetMCU1_25 Pin=MCU1-25
+Added Pin To Net: NetName=NetMCU1_26 Pin=MCU1-26
+Added Pin To Net: NetName=GND Pin=MCU1-32
+Added Member To Class: ClassName=U_CPU&Power Member=Component MCU1 STM32L010K4T6
+Added Room: Name=U_BL653u
+Added Room: Name=U_CPU&POWER
+Added Room: Name=U_DigitalSensors
+Added Room: Name=U_SchematicTensometr

@@ -1,0 +1,90 @@
+Added Component: Designator=Bat1(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=IC11(SON65P200X200X80-7N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LP5912Q1.5DRVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lp5912q1.5drvrq1/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lp5912-q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LP5912Q1.5DRVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LP5912Q1.5DRVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP5912Q15DRVRQ1?qs=n%252BTO0c4TDSYVegszUJ4LKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC12(SOT65P210X110-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LMV341IDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lmv341idckr/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lmv341"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMV341IDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LMV341IDCKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMV341IDCKR/?qs=paYhMW8qfiso3OfEEvyk%2Fg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FTSH10501LDVKTR
+Add Component: Footprint Not Found 45300059C
+Added Component: Designator=P1(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AVCC Pin=IC11-1
+Added Pin To Net: NetName=AVCC Pin=IC12-5
+Added Pin To Net: NetName=AVCC Pin=IC12-6
+Added Pin To Net: NetName=AVCC Pin=P1-1
+Added Net: Name=AVCC
+Added Pin To Net: NetName=GND Pin=Bat1-1
+Added Pin To Net: NetName=GND Pin=IC11-3
+Added Pin To Net: NetName=GND Pin=IC11-5
+Added Pin To Net: NetName=GND Pin=IC11-7
+Added Pin To Net: NetName=GND Pin=IC12-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBat1_2 Pin=Bat1-2
+Added Net: Name=NetBat1_2
+Added Net: Name=NetC20_2
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetIC11_4 Pin=IC11-4
+Added Net: Name=NetIC11_4
+Added Pin To Net: NetName=NetIC12_1 Pin=IC12-1
+Added Pin To Net: NetName=NetIC12_1 Pin=P1-2
+Added Net: Name=NetIC12_1
+Added Pin To Net: NetName=NetIC12_3 Pin=IC12-3
+Added Net: Name=NetIC12_3
+Added Pin To Net: NetName=NetIC12_4 Pin=IC12-4
+Added Net: Name=NetIC12_4
+Added Net: Name=NetJ1_2
+Added Net: Name=NetJ1_4
+Added Net: Name=NetJ1_6
+Added Net: Name=NetJ1_8
+Added Net: Name=NetJ1_10
+Added Net: Name=NetJ31_2
+Added Net: Name=NetJ31_4
+Added Net: Name=NetJ31_6
+Added Net: Name=NetJ31_10
+Added Net: Name=NetMCU1_4
+Added Net: Name=NetMCU1_14
+Added Net: Name=NetMCU1_18
+Added Net: Name=NetMCU1_19
+Added Net: Name=NetMCU1_20
+Added Net: Name=NetMCU1_21
+Added Net: Name=NetMCU1_22
+Added Net: Name=NetMCU1_27
+Added Net: Name=NetMCU1_28
+Added Net: Name=NetMOD31_31
+Added Net: Name=NetMOD31_34
+Added Net: Name=NetMOD31_51
+Added Net: Name=NetMOD31_52
+Added Net: Name=SPI1_MISO
+Added Net: Name=SPI1_MOSI
+Added Net: Name=SPI1_NSS_1
+Added Net: Name=SPI1_NSS_2
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=Vbat Pin=IC11-6
+Added Net: Name=Vbat
+Added Net: Name=Vcc
+Added Class: Name=U_BL653u
+Added Class: Name=U_CPU&Power
+Added Class: Name=U_DigitalSensors
+Added Class: Name=U_SchematicTensometr
+Added Room: Name=U_BL653u
+Added Room: Name=U_CPU&Power
+Added Room: Name=U_DigitalSensors
+Added Room: Name=U_SchematicTensometr

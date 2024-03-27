@@ -1,0 +1,82 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\mikol\OneDrive\Pulpit\pbl\4\Projekt_PBL4\PCB_Project\PCB1.PcbDoc
+Date     : 03/04/2023
+Time     : 14:58:55
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad IC11-1(6603.661mil,1550.591mil) on Top Layer And Pad IC11-7(6645mil,1525mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad IC11-2(6603.661mil,1525mil) on Top Layer And Pad IC11-7(6645mil,1525mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad IC11-4(6686.339mil,1499.409mil) on Top Layer And Pad IC11-7(6645mil,1525mil) on Top Layer 
+   Violation between Clearance Constraint: (7.874mil < 8mil) Between Pad IC11-6(6686.339mil,1550.591mil) on Top Layer And Pad IC11-7(6645mil,1525mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad IC12-2(6874.409mil,1480.197mil) on Top Layer [Unplated] And Pad Bat1-1(6875mil,1105mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net AVCC Between Pad IC11-1(6603.661mil,1550.591mil) on Top Layer [Unplated] And Pad IC12-6(6848.819mil,1555mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net AVCC Between Pad P1-1(6555mil,1110mil) on Multi-Layer And Pad IC11-1(6603.661mil,1550.591mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad IC11-3(6603.661mil,1499.409mil) on Top Layer [Unplated] And Pad IC11-7(6645mil,1525mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad IC11-7(6645mil,1525mil) on Top Layer [Unplated] And Pad IC11-5(6686.339mil,1525mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad IC11-5(6686.339mil,1525mil) on Top Layer [Unplated] And Pad IC12-2(6874.409mil,1480.197mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetIC12_1 Between Pad P1-2(6555mil,1210mil) on Multi-Layer And Pad IC12-1(6848.819mil,1480.197mil) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net AVCC Between Pad IC12-6(6848.819mil,1555mil) on Top Layer [Unplated] And Pad IC12-5(6874.409mil,1555mil) on Top Layer [Unplated] 
+Rule Violations :8
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=99999mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC11-1(6603.661mil,1550.591mil) on Top Layer And Pad IC11-2(6603.661mil,1525mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC11-2(6603.661mil,1525mil) on Top Layer And Pad IC11-3(6603.661mil,1499.409mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC11-4(6686.339mil,1499.409mil) on Top Layer And Pad IC11-5(6686.339mil,1525mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC11-5(6686.339mil,1525mil) on Top Layer And Pad IC11-6(6686.339mil,1550.591mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad IC12-1(6848.819mil,1480.197mil) on Top Layer And Pad IC12-2(6874.409mil,1480.197mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad IC12-2(6874.409mil,1480.197mil) on Top Layer And Pad IC12-3(6900mil,1480.197mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad IC12-4(6900mil,1555mil) on Top Layer And Pad IC12-5(6874.409mil,1555mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad IC12-5(6874.409mil,1555mil) on Top Layer And Pad IC12-6(6848.819mil,1555mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+Rule Violations :8
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Arc (6591.85mil,1577.165mil) on Top Overlay And Pad IC11-1(6603.661mil,1550.591mil) on Top Layer [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad IC12-1(6848.819mil,1480.197mil) on Top Layer And Track (6827.165mil,1456.575mil)(6827.165mil,1503.819mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_DigitalSensors (Bounding Region = (2020mil, 0mil, 4020mil, 1000mil) (InComponentClass('U_DigitalSensors'))
+Rule Violations :0
+
+Processing Rule : Room U_SchematicTensometr (Bounding Region = (7709.409mil, 992.598mil, 8354.409mil, 1312.598mil) (InComponentClass('U_SchematicTensometr'))
+Rule Violations :0
+
+Processing Rule : Room U_CPU&Power (Bounding Region = (7055mil, 1055mil, 7280mil, 1375mil) (InComponentClass('U_CPU&Power'))
+Rule Violations :0
+
+Processing Rule : Room U_BL653u (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('U_BL653u'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 22
+Waived Violations : 0
+Time Elapsed        : 00:00:02

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetMCU1_18 Pin=U21-5
+Removed Pin From Net: NetName=NetMCU1_14 Pin=U21-6
+Change Component Comment : Designator=C09 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C07 Old Comment=10uF New Comment=1uF
+Added Pin To Net: NetName=NetBat1_2 Pin=C11-2
+Added Pin To Net: NetName=NetBat1_2 Pin=U11-6
+Added Pin To Net: NetName=NetMCU1_14 Pin=U21-5
+Added Pin To Net: NetName=NetMCU1_18 Pin=U21-6
+Change Net Name : Old Net Name=NetBat1_2 New Net Name=Vbat

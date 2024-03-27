@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LPUART1_TX Pin=MCU1-8
+Removed Pin From Net: NetName=LPUART1_RX Pin=MCU1-9
+Added Pin To Net: NetName=LPUART1_TX Pin=MCU1-29
+Added Pin To Net: NetName=LPUART1_RX Pin=MCU1-30
+Added Room: Name=U_BL653u
+Added Room: Name=U_CPU&POWER
+Added Room: Name=U_DigitalSensors
+Added Room: Name=U_SchematicTensometr
